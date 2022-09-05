@@ -2,4 +2,4 @@ HELLO WORLD
 pertama kali membuat text di github
 
 nama: Mikael Raditya Agung Sasmita
-nim: 205314035
+tempat, tanggal lahir: bantul, 29 september 2001
